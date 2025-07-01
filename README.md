@@ -1,4 +1,4 @@
-Chief in Tech — Notes & Reflections
+#Chief in Tech — Notes & Reflections
 Welcome to a personal collection of notes based on "Chief in Tech" by Anna Radulovski. This isn't a summary or a review. Its my notes that I have taken from the book. 
 
 What's Inside
